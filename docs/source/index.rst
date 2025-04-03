@@ -20,18 +20,9 @@ Podemos usar IA em diversas áreas, como:
 - Entretenimento  
 - Marketing  
 
-**Conceitos**
-
-Tarefas tem várias, mas vamos focar em 4: 
-
-- Classificação
-- Regressão
-- Agrupamento
-- Detecção de Anomalias
-
-
-
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
+   machine_learning
+  
